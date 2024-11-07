@@ -20,11 +20,11 @@ sidebar:
     website: https://alexgrr12.github.io/Practica05-CV/ # Include the full website URL, including "http://" or "https://".
     linkedin: alexgr
     xing: alexgr
-    github: jekyll
+    github: AlexGRR12
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 'alexgrr'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,25 +36,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Español
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Ingles    
+          level: Medio
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Portugues
+          level: Medio
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Jugar
           link:
 
-        - item: Snowboarding
+        - item: Esquiar
           link:
 
-        - item: Cooking
+        - item: Cocinar
           link:
 
 career-profile:
