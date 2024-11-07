@@ -70,21 +70,18 @@ education:
         university: IES Jaumei I, Burriana
         time: 2022-2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+         Estudie en le centro IES Jaumei I de Burriana, sistemas informaticos en red, aprendí a
+         llevar un servidor en red, gestionar discos y particiones, comprender y saber como funciona un servidor,
+         crear una pagina web etc...
             - Bullet point
             - Bullet point
       - degree: Grado Superior de Desarollo Multiplataforma
-        university: Bristol University
+        university: IES Benigasló
         time: 2024-2026
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      De momento, estoy aprendiendo a programar lo basico, aunque con lo que ya se, se puede programar cualquiero programa
+      tambien estoy aprendiendo sobre como interpretar bases de datos, a usar github, tambien a usar XML o HTML a la par de JSON
+      para crear paginas web.
           pretium quis, sem.
             - Bullet point
             - Bullet point
