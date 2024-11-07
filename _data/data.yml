@@ -58,20 +58,17 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil de Carrera
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Mi carrera se podria resumir, en la obtencion de el titulo de la ESO, cursada en Burriana, en IES Jaumei I, seguidamente,
+     la obtencion del titulo del grado medio de informatica de Sistemas Informaticos en Red, y por ultimo
+     ahora mismo estoy cursando un grado superior de informatica, DAM.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Grado Medio de Sistemas Informaticos
+        university: IES Jaumei I, Burriana
+        time: 2022-2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,9 +77,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
+      - degree: Grado Superior de Desarollo Multiplataforma
         university: Bristol University
-        time: 2007 - 2011
+        time: 2024-2026
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
